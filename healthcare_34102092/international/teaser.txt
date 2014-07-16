@@ -1,0 +1,5 @@
+Sender:AVIVA
+Url:www.aviva.co.uk/life
+RedirectUrl:www.aviva.co.uk/our-latest-tv-ads/new-parent.html
+Subject:Life cover for parents
+Body:New parents get £10k free life cover for baby’s 1st year, apply today to help protect your family.
